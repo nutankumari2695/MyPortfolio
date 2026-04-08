@@ -89,7 +89,7 @@ export default function Contact() {
                                 Let&apos;s Build Something Amazing
                             </h3>
                             <p className="text-gray-300 mb-4">
-                                Whether it&apos;s a web application, AI project, or innovative solution, I&apos;m always excited to work on meaningful projects.
+                                Whether it is a web application, AI project, or innovative solution, I&apos;m always excited to work on meaningful projects.
                             </p>
                             <button className="inline-flex items-center gap-2 text-primary-400 font-semibold hover:gap-3 transition-all">
                                 <span>• Open to opportunities</span>
