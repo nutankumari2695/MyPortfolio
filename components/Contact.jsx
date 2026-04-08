@@ -10,7 +10,7 @@ export default function Contact() {
                 <div className="text-center mb-16">
                     <h2 className="text-4xl md:text-5xl font-bold gradient-text mb-4">Get In Touch</h2>
                     <p className="text-gray-300 max-w-2xl mx-auto">
-                        Ready to collaborate on exciting projects or discuss opportunities. Let's connect!
+                        Ready to collaborate on exciting projects or discuss opportunities. Let&apos;s connect!
                     </p>
                 </div>
 
@@ -55,7 +55,7 @@ export default function Contact() {
                                     </div>
                                     <div>
                                         <p className="text-sm text-gray-400">Location</p>
-                                        <p className="text-white font-medium">Gurugram, Haryana | Bihar (Sasaram)</p>
+                                        <p className="text-white font-medium">Gurugram, Haryana | Bihar (Vaishali)</p>
                                     </div>
                                 </div>
                             </div>
@@ -86,10 +86,10 @@ export default function Contact() {
                         {/* CTA Card */}
                         <div className="glass-strong rounded-lg p-6 text-center">
                             <h3 className="text-2xl font-bold gradient-text mb-3">
-                                Let's Build Something Amazing
+                                Let&apos;s Build Something Amazing
                             </h3>
                             <p className="text-gray-300 mb-4">
-                                Whether it's a web application, AI project, or innovative solution, I'm always excited to work on meaningful projects.
+                                Whether it&apos;s a web application, AI project, or innovative solution, I'm always excited to work on meaningful projects.
                             </p>
                             <button className="inline-flex items-center gap-2 text-primary-400 font-semibold hover:gap-3 transition-all">
                                 <span>• Open to opportunities</span>
@@ -103,7 +103,7 @@ export default function Contact() {
                             <FaEnvelope className="text-primary-400 text-2xl" />
                             <h3 className="text-2xl font-bold gradient-text">Send Message</h3>
                         </div>
-                        <p className="text-gray-300 mb-6">Fill out the form below and I'll get back to you soon!</p>
+                        <p className="text-gray-300 mb-6">Fill out the form below and I&apos;ll get back to you soon!</p>
 
                         <form className="space-y-4">
                             {/* Name and Email Row */}

@@ -47,7 +47,7 @@ export default function Hero() {
                     {/* Left Content */}
                     <div className="space-y-6 animate-fadeIn">
                         <div className="space-y-2">
-                            <p className="text-primary-400 text-lg font-semibold">Hello, I'm</p>
+                            <p className="text-primary-400 text-lg font-semibold">Hello, I&apos;m</p>
                             <h1 className="text-5xl md:text-7xl font-bold gradient-text">
                                 Nutan Kumari
                             </h1>
