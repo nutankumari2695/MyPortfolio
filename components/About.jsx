@@ -24,7 +24,7 @@ export default function About() {
                             Crafting Digital Experiences
                         </h3>
                         <p className="text-gray-400 leading-relaxed">
-                            I'm a passionate Software Engineer currently pursuing my Bachelor of Technology in
+                            I&apos;m a passionate Software Engineer currently pursuing my Bachelor of Technology in
                             Computer Science Engineering at Maharshi Dayanand University, Rohtak. With a strong
                             foundation in data structures, algorithms, and modern web technologies, I strive to
                             build efficient and scalable solutions.
@@ -32,7 +32,7 @@ export default function About() {
                         <p className="text-gray-400 leading-relaxed">
                             My journey in tech has been enriched by hands-on internship experiences at WebsJyoti
                             and BharatIntern, where I developed responsive web interfaces and collaborated on
-                            real-world projects. I'm committed to continuous learning and staying updated with
+                            real-world projects. I&apos;m committed to continuous learning and staying updated with
                             the latest industry trends.
                         </p>
                         <p className="text-gray-400 leading-relaxed">
